@@ -1,19 +1,15 @@
 # PhœnixNonce
-
 _We told you to save your blobs._
 
 ### About
-
 Lets you set your boot-nonce so you can restore with saved blobs.  
 For 64-bit devices only (for 32-bit, check out the [Phœnix Jailbreak](https://phoenixpwn.com)).  
 As always, use at your own risk.
 
 ### Download
-
 [Here](https://github.com/Siguza/PhoenixNonce/releases).
 
 ### Usage
-
 - Download [the IPA](https://github.com/Siguza/PhoenixNonce/releases).
 - Install with [Cydia Impactor](http://www.cydiaimpactor.com/).
 - Run the app & set your generator.
